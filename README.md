@@ -5,4 +5,4 @@ Proses pada bubble sort dilakukan dengan penukaran data disebelahnya secara teru
 Proses selection sort dilakukan dengan konsep memilih elemen dengan nilai paling rendah dan menukar elemen tersebut dengan elemen ke –i.
 
 
-Proses insertion sort dilakukan dengan pengurutan data dengan melakukan penempatan setiap elemen data pada pisisina dengan membandingkan dengan data-data yang telah ada. 
+Proses insertion sort dilakukan dengan pengurutan data dengan melakukan penempatan setiap elemen data pada posisinya dengan membandingkan dengan data-data yang telah ada. 
